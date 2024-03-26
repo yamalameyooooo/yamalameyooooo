@@ -3,11 +3,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-XML                                    2 hrs 20 mins   ███████████▓░░░░░░░░░░░░░   46.20 %
-Java                                   2 hrs           ██████████░░░░░░░░░░░░░░░   39.69 %
-Java Properties                        25 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.30 %
-TypeScript                             7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.57 %
-spring-boot-configuration-properties   4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.60 %
+XML                                    2 hrs 11 mins   ████████████▓░░░░░░░░░░░░   50.70 %
+Java                                   1 hr 31 mins    █████████░░░░░░░░░░░░░░░░   35.37 %
+Java Properties                        25 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.74 %
+spring-boot-configuration-properties   4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.89 %
+TypeScript                             3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.44 %
 ```
 
 <!--END_SECTION:waka-->
