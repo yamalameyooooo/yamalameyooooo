@@ -3,11 +3,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Java                                   4 hrs 47 mins   ██████████████▒░░░░░░░░░░   57.98 %
-XML                                    2 hrs 45 mins   ████████▒░░░░░░░░░░░░░░░░   33.39 %
-JavaScript                             14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.88 %
-GraphQL                                10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.11 %
-spring-boot-configuration-properties   7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.57 %
+Java                                   4 hrs 30 mins   █████████████▓░░░░░░░░░░░   55.00 %
+XML                                    2 hrs 58 mins   █████████░░░░░░░░░░░░░░░░   36.33 %
+JavaScript                             14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.90 %
+GraphQL                                10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.12 %
+spring-boot-configuration-properties   7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.58 %
 ```
 
 <!--END_SECTION:waka-->
