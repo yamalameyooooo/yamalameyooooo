@@ -3,10 +3,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   54 mins         █████████████████████████   99.89 %
-Java         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
-XML          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
-textmate     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
