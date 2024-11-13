@@ -3,10 +3,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-spring-boot-configuration-properties   4 mins          ████████████▒░░░░░░░░░░░░   49.23 %
-XML                                    2 mins          ████████▒░░░░░░░░░░░░░░░░   33.12 %
-Java                                   1 min           ████▒░░░░░░░░░░░░░░░░░░░░   16.68 %
-Java Properties                        0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.96 %
+XML                                    6 mins          ███████████▒░░░░░░░░░░░░░   45.42 %
+spring-boot-configuration-properties   4 mins          ███████▒░░░░░░░░░░░░░░░░░   29.28 %
+Java                                   3 mins          ██████▒░░░░░░░░░░░░░░░░░░   24.73 %
+Java Properties                        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 %
 GraphQL                                0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
