@@ -6,7 +6,6 @@
 Java                                   21 mins         ███████████████████▓░░░░░   78.43 %
 XML                                    5 mins          █████▒░░░░░░░░░░░░░░░░░░░   21.55 %
 spring-boot-configuration-properties   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
-GraphQL                                0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
