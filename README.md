@@ -3,9 +3,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Java              13 mins         ██████████████▒░░░░░░░░░░   57.53 %
-Properties        9 mins          ██████████▓░░░░░░░░░░░░░░   42.28 %
-Java Properties   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 %
+Properties        9 mins          █████████████████████████   99.38 %
+Java Properties   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 %
+Java              0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
 ```
 
 <!--END_SECTION:waka-->
