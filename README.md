@@ -3,11 +3,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Java              4 hrs 17 mins   ████████████████▒░░░░░░░░   65.97 %
-Java Properties   41 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.63 %
-Properties        30 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.76 %
-GraphQL           26 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.73 %
-Markdown          21 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.57 %
+Java              3 hrs 45 mins   ███████████████████▒░░░░░   77.27 %
+GraphQL           26 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.00 %
+Properties        25 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.70 %
+Java Properties   6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.19 %
+Markdown          3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.21 %
 ```
 
 <!--END_SECTION:waka-->
