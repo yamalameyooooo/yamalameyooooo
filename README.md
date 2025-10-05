@@ -3,11 +3,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Java                           47 mins         ███████████████████▓░░░░░   78.58 %
-Properties                     12 mins         █████░░░░░░░░░░░░░░░░░░░░   20.57 %
-YAML                           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 %
-GitIgnore file                 0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 %
-XML                            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
