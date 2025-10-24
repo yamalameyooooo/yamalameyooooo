@@ -3,7 +3,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Java   33 mins         █████████████████████████   100.00 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
