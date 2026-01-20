@@ -3,10 +3,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-XML               1 hr 21 mins    █████████████████████▒░░░   85.40 %
-Java              13 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.05 %
-Properties        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 %
-Java Properties   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
+Java              1 hr 53 mins    ██████████████░░░░░░░░░░░   56.12 %
+XML               1 hr 27 mins    ███████████░░░░░░░░░░░░░░   43.43 %
+Properties        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
+Java Properties   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
+Shell Script      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
 ```
 
 <!--END_SECTION:waka-->
