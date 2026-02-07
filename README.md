@@ -3,11 +3,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Java         32 mins         █████████████████████████   99.63 %
-GraphQL      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 %
-XML          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
-JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
-Properties   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
