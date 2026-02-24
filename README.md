@@ -3,11 +3,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Bash         12 mins               ████████████████████████▒   96.95 %
-Java         0 secs                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.95 %
-JavaScript   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
-XML          0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
-Properties   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
