@@ -3,9 +3,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Other      0 secs                ███████████████████████░░   92.60 %
-Java       0 secs                ██░░░░░░░░░░░░░░░░░░░░░░░   07.39 %
-Markdown   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
